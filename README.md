@@ -6,7 +6,7 @@ Welcome to group M's Assignment 2 repository. Please refer to the following note
 * [Qitian Ma's solution](qitian-ma/qitian-assignment-2.ipynb)
 
 
-The following link for final solutions submittd by the whole group should be activated once it is settled:
+Please refer to the following notebook for the purpose of group assignment evaluation.
 
-* [Solutions submitted by the whole group](group-submission/stats-and-prob-assignment-2.ipynb)
+* [Solutions - Group](group-submission/stats-and-prob-assignment-2.ipynb)
 
