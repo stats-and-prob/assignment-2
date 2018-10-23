@@ -5,8 +5,8 @@ Welcome to group M's Assignment 2 repository. Please refer to the following note
 * [Fei Li's solution](fei-li/fei-li-assignment-2.ipynb)
 * [Qitian Ma's solution](qitian-ma/qitian-assignment-2.ipynb)
 
+<!-- 
+The following link for final solutions submittd by the whole group should be activated once it is settled:
 
-<!-- The following link for final solutions submittd by the whole group should be activated once it is settled:
-
-* [Solutions submitted by the whole group](group-submission/assignment-2-group.ipynb)
+* [Solutions submitted by the whole group](group-submission/group-assignment-2.ipynb)
  -->
